@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajeevvermaiisc
+- 👋 Hi, I’m Rajeev Verma @rajeevvermaiisc
 - 👀 I’m interested in AI ML OPS
 - 🌱 I’m currently learning different application of AI and deploying it at scale
 - 💞️ I’m looking to collaborate on BFSI usecases.
